@@ -1,0 +1,24 @@
+name: "GLAMOS Klet3D"
+version: "1.0.0"
+slug: "glamos_klet3d"
+description: "Create animated 3D version of your home"
+url: "https://klet3d.com/"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+startup: services
+ingress: true
+map:
+  - share:rw
+options:
+  floorplanID: null
+  licenseKey: null
+schema:
+  floorplanID: str
+  licenseKey: str
+  token: password
+panel_icon: mdi:alpha-k-box-outline
