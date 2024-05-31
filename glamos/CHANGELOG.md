@@ -1,4 +1,12 @@
 
+## 1.0.2
+
+- Added presence sensor zone visualization
+- Option to change background color in 3D view
+- Option to enable/disable displaying of clock near house
+- Cover animation fix
+- Minor improvements
+
 ## 1.0.1
 
 - Added animated 3D visualization of fans
