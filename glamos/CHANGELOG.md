@@ -1,4 +1,13 @@
 
+## 1.0.3
+
+- Highlight 3D models - coloring in green (open/on state) or red (closed/off state)
+- Always hide wall - split room in multiple parts without displaying walls
+- Mirror 3D object
+- Short wall selection
+- Minor improvements
+
+
 ## 1.0.2
 
 - Added presence sensor zone visualization
