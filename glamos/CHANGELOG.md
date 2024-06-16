@@ -1,3 +1,11 @@
+## 1.0.4
+
+- Light type - select between omnidirectional and spot/directional type
+- Light and fan sync with HA entity - e.g. for RGB lights 3D visualization of color and brightness can follow HA entity state, no need to set fixed values
+- Highlight clickable objects in blue color - added icon which will highlight all 3D objects which can be clicked
+- Highlight object by state in green or red color - control icon moved from left panel to screen
+- Added 100+ new 3D models
+- Minor improvements
 
 ## 1.0.3
 
@@ -6,7 +14,6 @@
 - Mirror 3D object
 - Short wall selection
 - Minor improvements
-
 
 ## 1.0.2
 
@@ -28,13 +35,13 @@
 - Easy drawing floorplan of your home
 - Adding a lot of different parts (300+) of house and furniture to enhance the visual impression
 - Multiple animated 3D elements which can be connected with Home Assistant entities:
-	- doors - animated opening/closing
-	- windows - animated opening/closing
-	- lights - click on 3D object will turn on/off light, you can setup color and brightness of light in 3D model
-	- sensors - display value of sensor on room floor and color room floor based on sensor value
-	- text outputs - display some values
+  - doors - animated opening/closing
+  - windows - animated opening/closing
+  - lights - click on 3D object will turn on/off light, you can setup color and brightness of light in 3D model
+  - sensors - display value of sensor on room floor and color room floor based on sensor value
+  - text outputs - display some values
 - Multiple views in Home Assistant:
-	- doll house view
-	- first person view
-	- floorplan view
+  - doll house view
+  - first person view
+  - floorplan view
 - Option that adding new sensors/devices will be applied to HA visualization live, at the same moment - no need to rerender all things (which was problem with floorcard visualization)
