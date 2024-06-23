@@ -1,3 +1,10 @@
+
+## 1.0.5
+
+- Color change of 3D objects
+- Minor improvements
+
+
 ## 1.0.4
 
 - Light type - select between omnidirectional and spot/directional type
