@@ -1,5 +1,5 @@
 
-## 1.0.5
+## 1.0.6
 
 - Enabled import of SH3D floorplans which includes custom 3D objects
 - Change the appearance of 3D objects by setting a texture or color
