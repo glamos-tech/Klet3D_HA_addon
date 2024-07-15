@@ -1,4 +1,14 @@
 
+## 1.0.7
+
+- Zoom to specific location
+- Zoom smooth on tablet/phone
+- Room floor pattern - adjust size
+- 3D models can have different parameters for same entity (e.g. cover opening direction)
+- Improved SH3D import
+- List of all custom objects in app
+- Minor improvements
+
 ## 1.0.6
 
 - Enabled import of SH3D floorplans which includes custom 3D objects
