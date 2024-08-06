@@ -1,4 +1,10 @@
 
+## 1.0.8
+
+- Multiple floors enabled
+- Each wall can have custom height
+- Minor improvements
+
 ## 1.0.7
 
 - Zoom to specific location
