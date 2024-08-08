@@ -1,4 +1,8 @@
 
+## 1.0.9
+
+- Fix - blocking of addon
+
 ## 1.0.8
 
 - Multiple floors enabled
