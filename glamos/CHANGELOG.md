@@ -1,4 +1,9 @@
 
+## 1.0.10
+
+- Sky color customization
+- Fix - not displaying sensor values on floor and room floor background
+
 ## 1.0.9
 
 - Fix - blocking of addon
