@@ -1,4 +1,10 @@
 
+
+## 1.0.11
+
+- Docker container version of add-on released
+- Improved room floor pattern configuration
+
 ## 1.0.10
 
 - Sky color customization
