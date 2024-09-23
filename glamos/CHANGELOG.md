@@ -1,4 +1,13 @@
 
+## 1.0.12
+
+- Room floor pattern selection expanded
+- Option to customize ambient light intensity
+- Replace object without losing entity connections
+- Added smooth transition from 3D dollhouse view to first-person view
+- Fix light propagation
+- Fix wall tiling issue
+- Minor improvements
 
 ## 1.0.11
 
