@@ -1,3 +1,8 @@
+## 1.0.13
+
+- Heatmap (based on sensor values) option added
+- First person view (FPV) - smooth transition added, "walk" with zooming, floorplan with current location added
+- Optimizations and improvements
 
 ## 1.0.12
 
@@ -50,7 +55,6 @@
 
 - Color change of 3D objects
 - Minor improvements
-
 
 ## 1.0.4
 
