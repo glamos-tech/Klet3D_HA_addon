@@ -1,3 +1,15 @@
+
+## 1.0.14
+- Increased clickable area around 3D models - it is easier and more precise to click on 3D model
+- Long press (2+ seconds) on 3D model will open HA popup window to control entity (e.g. RGB lights to set colors and intensity, or cover to adjust opening percentage). NOTE: For this feature you need to install "Browser mod" integration (https://github.com/thomasloven/hass-browser_mod?tab=readme-ov-file#quickstart - follow steps 1.-5.)
+- Added list of rooms - click on room will focus view on that room
+- Added button to switch between rotate and drag controls for better user experience on phones and tablets
+- "OTHER" object allows you now to connect ANY entity from HA and with text display their values on floorplan
+- Added "HVAC" section with air conditioner (AC) 3D model - it will display animation if climate is turned on
+- Minor improvements and optimizations
+
+
+
 ## 1.0.13
 
 - Heatmap (based on sensor values) option added
