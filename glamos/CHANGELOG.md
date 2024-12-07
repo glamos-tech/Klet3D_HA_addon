@@ -1,5 +1,17 @@
 
+## 1.0.15
+
+- CHRISTMAS TREE - connect entity with 3D model of christmas tree to make it sparkle
+- In First Person View (FPV) mode click on map will move you to clicked location
+- Adding of custom 3D models enabled
+- Option to change 3D model type - e.g. to change to floor fixed or to wall fixed, etc.
+- Option to hide all control buttons from screen (left panel -> CONTROLS)
+- Option to enable "Sun dance" feature - it will generate sunlight and shadows based on location and period of day (left panel -> SUN LIGHT)
+- Minor improvements and optimizations
+
+
 ## 1.0.14
+
 - Increased clickable area around 3D models - it is easier and more precise to click on 3D model
 - Long press (2+ seconds) on 3D model will open HA popup window to control entity (e.g. RGB lights to set colors and intensity, or cover to adjust opening percentage). NOTE: For this feature you need to install "Browser mod" integration (https://github.com/thomasloven/hass-browser_mod?tab=readme-ov-file#quickstart - follow steps 1.-5.)
 - Added list of rooms - click on room will focus view on that room
@@ -7,7 +19,6 @@
 - "OTHER" object allows you now to connect ANY entity from HA and with text display their values on floorplan
 - Added "HVAC" section with air conditioner (AC) 3D model - it will display animation if climate is turned on
 - Minor improvements and optimizations
-
 
 
 ## 1.0.13
