@@ -1,4 +1,8 @@
 
+## 1.0.16
+
+- Fix - floorplan loading problem for some users
+
 ## 1.0.15
 
 - CHRISTMAS TREE - connect entity with 3D model of christmas tree to make it sparkle
