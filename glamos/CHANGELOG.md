@@ -1,4 +1,9 @@
 
+## 1.0.17
+
+- Added camera entity - in browser mod it allows you to view from the location where the camera is installed
+- Improvements and optimizations
+
 ## 1.0.16
 
 - Fix - floorplan loading problem for some users
