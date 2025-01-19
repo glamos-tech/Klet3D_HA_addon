@@ -1,4 +1,13 @@
 
+## 1.0.18
+
+- Added screens entity (TVs, computers) - adjust screen color based on value (on/off) and generate 3D glow effect
+- One click on 3D camera shows area it is monitoring, long click opens camera preview
+- Fixed problem with missing (not generating) lights for some users
+- Updated dollhouse-to-FPV transition 
+- Updated heatmap generation for some devices
+- Bug fixes, improvements and optimizations
+
 ## 1.0.17
 
 - Added camera entity - in browser mod it allows you to view from the location where the camera is installed
