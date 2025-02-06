@@ -1,4 +1,12 @@
 
+## 1.0.19
+
+- Hide all 3D models except clickable
+- Presence area sensor - allows you to live follow up to 3 persons at the same time (3D models will move around) - check documentation for details
+- Updated screen entity 3D visualization
+- Improved logic of adding furniture, added new shortcuts
+- Bug fixes, improvements and optimizations
+
 ## 1.0.18
 
 - Added screens entity (TVs, computers) - adjust screen color based on value (on/off) and generate 3D glow effect
