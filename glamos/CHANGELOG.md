@@ -1,4 +1,14 @@
 
+## 1.0.20
+
+- Door and window opening - added new opening orientations (slide, lift...)
+- Lock floorplan 3D view - set specific 3D view which will load everytime - each HA panel can have different intial view (add e.g. #viewIndex=2 at the end of add-on URL - number represents index from Klet3D app)
+- Added "auto save" logic and additional notifications for non-saved floorplans when exiting app
+- Change 2D background color and grid visibility - in app in left panel click on "LAYERS"
+- Multiple software updates that improve stability and performance of add-on
+- Bug fixes, improvements and optimizations
+
+
 ## 1.0.19
 
 - Hide all 3D models except clickable
