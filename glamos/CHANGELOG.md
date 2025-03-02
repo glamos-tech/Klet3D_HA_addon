@@ -1,6 +1,7 @@
 
-## 1.0.20
+## 1.0.21
 
+- Fix not loading (blank) add-on problem
 - Door and window opening - added new opening orientations (slide, lift...)
 - Lock floorplan 3D view - set specific 3D view which will load everytime - each HA panel can have different intial view (add e.g. #viewIndex=2 at the end of add-on URL - number represents index from Klet3D app)
 - Added "auto save" logic and additional notifications for non-saved floorplans when exiting app
