@@ -1,4 +1,8 @@
 
+## 1.0.22
+- Fix "not loading (blank) add-on" problem
+- Some optimizations
+
 ## 1.0.21
 
 - Fix not loading (blank) add-on problem
