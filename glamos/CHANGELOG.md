@@ -1,4 +1,11 @@
 
+## 1.1.0
+- We recommend to update on this add-on version
+- Multiple big changes which improve add-on performance
+- Added "Surface" entity - import image/icons (or set color) on floor or wall - it will toggle images/color based on entity state
+- Improved "Screen" entity
+- Bug fixes, improvements and optimizations
+
 ## 1.0.22
 - Fix "not loading (blank) add-on" problem
 - Some optimizations
