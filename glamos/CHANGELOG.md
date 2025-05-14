@@ -1,4 +1,13 @@
 
+## 1.1.1
+- Fixed Presence area sensor - x-axis direction
+- Sensor heatmap - improved settings flow and fixed some bugs
+- Surface/images - enabled to be clickable - click to toggle entity state
+- Screen/TVs - updated logic for more adaptability
+- Controls - show/hide icon added on main screen
+- Furniture can be clickable - click on any furniture 3D model to toggle entity state
+- Bug fixes, improvements and optimizations
+
 ## 1.1.0
 - We recommend to update on this add-on version
 - Multiple big changes which improve add-on performance
